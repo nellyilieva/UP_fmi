@@ -1,2 +1,2 @@
-# FMI_1 course
+Exercises from the UP course
  
